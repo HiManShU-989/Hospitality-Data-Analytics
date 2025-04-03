@@ -18,7 +18,7 @@ A **Hospitality Analytics Dashboard** built using **Power BI** that provides ins
 
 ## 📥 Installation & Setup
 To run the Power BI report locally:
-1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+1. Download and install [Power BI Desktop](https://apps.microsoft.com/detail/9NTXR16HNW1T?hl=en-us&gl=IN&ocid=pdpshare).
 2. Clone this repository:
    ```bash
    git clone https://github.com/HiManShU-989/Hospitality-Data-Analytics.git
@@ -39,6 +39,6 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 This project is **MIT Licensed**. You are free to use and modify it as needed.
 
 ---
-🚀 *Developed with ❤️ by [Your Name](https://github.com/HiManShU-989)*
+🚀 *Developed with ❤️ by [Himanshu Singh](https://github.com/HiManShU-989)*
 
 
